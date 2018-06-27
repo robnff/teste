@@ -2,10 +2,13 @@
 botando qualquer coisa
 
 "# commit 3"
-testando atualização de Victor
+testando atualização de candidato VF
 
 "# commit 4"
-testando atualização de JP
+testando atualização de candidato JP
 
 "# commit 5"
-testando atualização de George Harrison
+testando atualização de candidato GH
+
+"# commit 6"
+atualizando nomes da glr
