@@ -14,4 +14,7 @@ testando atualização de candidato GH
 atualizando nomes da glr
 
 "# commit 7"
-testando atualização automática do candidato
+testando atualização automática do candidato, não subiu qnd tentei dessa vez
+
+"commit 8"
+eae, agora vai?
