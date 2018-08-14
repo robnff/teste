@@ -18,3 +18,6 @@ testando atualização automática do candidato, não subiu qnd tentei dessa vez
 
 "commit 8"
 eae, agora vai?
+
+"# commit 9"
+testando funcionalidade
